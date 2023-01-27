@@ -1,4 +1,4 @@
-# to_do_list
+# Planner
 
 A new Flutter project.
 
